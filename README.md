@@ -15,12 +15,6 @@ Crafting practical, human-centered digital systems across healthcare, sustainabi
 
 ---
 
-### 🎯 Current Focus & Goals
-![Status](https://img.shields.io/badge/Status-Open%20To%20Opportunities-success?style=flat-square) 
-![Seeking](https://img.shields.io/badge/Seeking-Internships%20%26%20Collaborations-blue?style=flat-square)
-
----
-
 ### 🛠️ Tech Stack & Expertise
 
 | Category | Tools & Technologies |
@@ -30,18 +24,6 @@ Crafting practical, human-centered digital systems across healthcare, sustainabi
 | **Mobile & IoT** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino%20IDE-00979D?style=flat-square&logo=arduino&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
 | **AI & Cyber Security**| ![Flowise](https://img.shields.io/badge/Flowise%20AI-000000?style=flat-square&logo=probot&logoColor=white) ![AI](https://img.shields.io/badge/Rule--based%20AI-4169E1?style=flat-square&logo=openai&logoColor=white) ![Analytics](https://img.shields.io/badge/AI%20Analytics-008080?style=flat-square&logo=googleanalytics&logoColor=white) ![Cryptography](https://img.shields.io/badge/Python%20Cryptography-3776AB?style=flat-square&logo=python&logoColor=white) ![Security](https://img.shields.io/badge/Security%20Simulations-E51A4C?style=flat-square&logo=auth0&logoColor=white) |
 | **Design & Management**| ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![UI/UX](https://img.shields.io/badge/Wireframing%20%26%20Prototyping-FF69B4?style=flat-square&logo=adobexd&logoColor=white) ![UX](https://img.shields.io/badge/UX%20Optimization-00CC66?style=flat-square&logo=lighthouse&logoColor=white) ![Workflows](https://img.shields.io/badge/Technical%20Workflows-7B68EE?style=flat-square&logo=gitkraken&logoColor=white) |
-
----
-
-### 📊 GitHub Statistics
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danaiaxx&theme=react-dark&bg_color=0d1117&hide_border=true" alt="danaiaxx Activity Graph" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=danaiaxx&layout=compact&theme=dark" alt="Top Languages by Repo" width="60%" />
-</p>
 
 ---
 
