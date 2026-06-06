@@ -33,13 +33,15 @@ Crafting practical, human-centered digital systems across healthcare, sustainabi
 
 ---
 
-### 📌 Highlighted Projects
+### 📊 GitHub Statistics
 
-*   **🦮 RabiesResQ:** A specialized healthcare web platform built with Python, Flask, and Jinja2 for tracking animal bite victims. Includes rule-based triage logic, vaccine schedule alerts, and multi-branch database syncing.
-*   **💧 ZeroDrip:** An IoT-powered smart water ecosystem using Arduino, Python, Firebase, and Flutter. Features real-time usage tracking, automated data logging, and software-calibrated AI leak alerts.
-*   **🎮 Syntax Battle:** A retro web arcade layout built with React that merges classic split-screen Tetris blocks with fast-paced JavaScript programming challenges against an automated bot.
-*   **🩺 Femeness (Ongoing Research):** An inclusive digital platform for sexual wellness and reproductive health featuring personalized educational recommendations, clinic locators, and anonymous browsing modes.
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danaiaxx&theme=react-dark&bg_color=0d1117&hide_border=true" alt="danaiaxx Activity Graph" width="100%" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=danaiaxx&layout=compact&theme=dark" alt="Top Languages by Repo" width="60%" />
+</p>
 
 ---
 
