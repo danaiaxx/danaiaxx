@@ -45,8 +45,8 @@ Crafting practical, human-centered digital systems across healthcare, sustainabi
 ### 📊 GitHub Statistics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=danaiaxx&show_icons=true&theme=dark" alt="danaiaxx GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danaiaxx&layout=compact&theme=dark" alt="Top Langs" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=danaiaxx&show_icons=true&theme=dark" alt="danaiaxx GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danaiaxx&theme=dark" alt="danaiaxx Streak Stats" width="48%" />
 </p>
 
 ---
