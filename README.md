@@ -40,14 +40,6 @@ Crafting practical, human-centered digital systems across healthcare, sustainabi
 *   **🎮 Syntax Battle:** A retro web arcade layout built with React that merges classic split-screen Tetris blocks with fast-paced JavaScript programming challenges against an automated bot.
 *   **🩺 Femeness (Ongoing Research):** An inclusive digital platform for sexual wellness and reproductive health featuring personalized educational recommendations, clinic locators, and anonymous browsing modes.
 
----
-
-### 📊 GitHub Statistics
-
-<p align="left">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=danaiaxx&show_icons=true&theme=dark" alt="danaiaxx GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danaiaxx&theme=dark" alt="danaiaxx Streak Stats" width="48%" />
-</p>
 
 ---
 
@@ -55,7 +47,3 @@ Crafting practical, human-centered digital systems across healthcare, sustainabi
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-purple?style=flat-square&logo=vercel&logoColor=white)](https://ninadangcalan.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-ninadangcalan1%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ninadangcalan1@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-danaiaxx-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/danaiaxx)
-
-<p align="center">
-  <em>Made with care ✿ / cute on the outside, carefully engineered inside.</em>
-</p>
